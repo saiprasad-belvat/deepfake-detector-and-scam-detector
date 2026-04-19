@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Large / generated model files
+*.h5
+
+# Optional local files
+files/
